@@ -1,0 +1,6 @@
+.input-default{
+    background-color: var(--color-grey-4);
+    padding: var(--padding--1);
+    border-style: none;
+    border-radius: var(--border-radius-1);
+}

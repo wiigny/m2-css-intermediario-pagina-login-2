@@ -1,0 +1,14 @@
+.button-default{
+    background-color: var(--color-grey-3);
+    color: var(--color-grey-1);
+    font-size: 18px;
+    padding: var(--padding--1);
+    border-style: none;
+    border-radius: var(--border-radius-1);
+    cursor: pointer;
+    transition: 0.15s ease-in-out;
+}
+.button-default:hover{
+    background-color: var(--color-grey-2);
+    color: var(--color-grey-6);
+}
